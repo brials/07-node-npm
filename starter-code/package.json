@@ -1,0 +1,27 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "This is my server practice for my blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "this is initizialized at localhost:3000",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brials/07-node-npm.git"
+  },
+  "keywords": [
+    "express",
+    "blog"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brials/07-node-npm/issues"
+  },
+  "homepage": "https://github.com/brials/07-node-npm#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
